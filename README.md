@@ -19,7 +19,9 @@ pip install -r requirements.txt
 
 ## Notes
 
-- The repo contains chrome driver for chrome version 79. If your chrome version is not 79, download chrome driver for your respective version and replace chromedriver.exe in project
+- The repo contains chrome driver for chrome version 79. If your chrome version is not 79, download chrome driver for your respective version and replace chromedriver.exe in project.
+- Download Tesseract binary for windows and copy tesseract directory in project directory
+    eg. project/Tesseract-OCR/
 ## Running
 
 ```

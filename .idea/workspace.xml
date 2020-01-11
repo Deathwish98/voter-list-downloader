@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2309fa-6657-4e0f-b06b-8d2127282ea2" name="Default Changelist" comment="" />
+    <list default="true" id="ee2309fa-6657-4e0f-b06b-8d2127282ea2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/ambiguous_words.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/classifier_tester.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/cntraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/combine_tessdata.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/dawg2wordlist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/doc/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/doc/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/doc/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/doc/eurotext.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/doc/phototest.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/iconv.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/icudata51.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/icui18n51.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/icuuc51.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/img7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/img8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/java/ScrollView.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/java/piccolo2d-core-3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/java/piccolo2d-extras-3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libbz2-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libcairo-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libexpat-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libffi-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libfontconfig-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libfreetype-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libgcc_s_sjlj-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libgif-4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libglib-2.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libgobject-2.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libgomp-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libharfbuzz-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libintl-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libjbig-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libjpeg-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/liblept-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/liblzma-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libopenjp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpango-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpangocairo-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpangoft2-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpangowin32-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpixman-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libpng16-16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libstdc++-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libtesseract-4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libtiff-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libwebp-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/libwinpthread-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/lstmeval.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/lstmtraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/mftraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/set_unicharset_properties.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/shapeclustering.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tar.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/ambigs.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/api_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/bigram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/box.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/box.train.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/digits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/hocr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/inter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/kannada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/linebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/logfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/lstm.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/makebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/quiet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/rebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/strokewidth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/configs/unlv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/eng.user-patterns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/eng.user-words" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/hin.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/osd.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/pdf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/batch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/batch.nochop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/matdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/msdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/nobatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tessdata/tessconfigs/segdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tesseract-uninstall.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/tesseract.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/text2image.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/unicharset_extractor.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/wordlist2dawg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesseract-OCR/zlib1.dll" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +104,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/downloader.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -156,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1578604401422</updated>
       <workItem from="1578604402874" duration="23331000" />
-      <workItem from="1578718231868" duration="10384000" />
+      <workItem from="1578718231868" duration="10646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33715000" />
+    <option name="totallyTimeSpent" value="33977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -262,17 +365,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
