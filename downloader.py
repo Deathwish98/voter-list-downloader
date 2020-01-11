@@ -37,9 +37,11 @@ class VoterListDownloader:
     '''
 
     AC_NO = 0
+    STARTING_BOOTH = 0
 
     def __init__(self):
         self.get_ac_no_from_user()
+        self.get_booth_no_from_user()
         download_dir = os.path.join(os.getcwd(), f'pdf\\AC-{VoterListDownloader.AC_NO}')
         chrome_options = Options()
         chrome_options.add_experimental_option('prefs', {
@@ -63,6 +65,17 @@ class VoterListDownloader:
         except ValueError:
             print('Please Enter an AC No. between 1 and 70')
 
+    @classmethod
+    def get_booth_no_from_user(cls):
+        try:
+            cls.STARTING_BOOTH = int(input('Enter booth no. to start download from\t'))
+        except ValueError:
+            print('Please Enter an integer value')
+
+        if cls.STARTING_BOOTH <= 1:
+            cls.STARTING_BOOTH = 1
+
+
     def download_voter_list_for_given_ac_no(self):
 
         # Clicks the specified AC out of 70 ACs
@@ -71,7 +84,7 @@ class VoterListDownloader:
 
         # Downloads each booth in a loop
         booth_list_page = page.BoothListPage(self.driver)
-        current_booth = 1
+        current_booth = VoterListDownloader.STARTING_BOOTH
         while current_booth <= booth_list_page.total_booths:
             booth_list_page.click_booth_hyperlink(current_booth)
             captcha_page = page.CaptchaPage(self.driver)

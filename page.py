@@ -66,7 +66,7 @@ class CaptchaPage(BasePage):
     def resolve_captcha(self):
         captcha_resolver = CaptchaResolver(CaptchaPage.CAPTCHA_PATH)
         captcha_resolver.read_captcha()
-        print(captcha_resolver.captcha_text)
+        # print(captcha_resolver.captcha_text)
         self.delete_captcha_file()
         return captcha_resolver.captcha_text
 
