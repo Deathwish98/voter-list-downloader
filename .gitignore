@@ -6,3 +6,5 @@ Tesseract-OCR/
 $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
+pdf/
+__pycache__/
