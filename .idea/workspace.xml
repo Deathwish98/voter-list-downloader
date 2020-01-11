@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2309fa-6657-4e0f-b06b-8d2127282ea2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/downloader.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee2309fa-6657-4e0f-b06b-8d2127282ea2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
         <option value="$PROJECT_DIR$/page.py" />
         <option value="$PROJECT_DIR$/captcha_resolver.py" />
         <option value="$PROJECT_DIR$/downloader.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -156,12 +155,12 @@
       <option name="presentableId" value="Default" />
       <updated>1578604401422</updated>
       <workItem from="1578604402874" duration="23331000" />
-      <workItem from="1578718231868" duration="9883000" />
+      <workItem from="1578718231868" duration="10116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33214000" />
+    <option name="totallyTimeSpent" value="33447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -249,6 +248,16 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="442">
+            <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
