@@ -72,6 +72,7 @@
         <option value="$PROJECT_DIR$/captcha_resolver.py" />
         <option value="$PROJECT_DIR$/downloader.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -155,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1578604401422</updated>
       <workItem from="1578604402874" duration="23331000" />
-      <workItem from="1578718231868" duration="10116000" />
+      <workItem from="1578718231868" duration="10384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33447000" />
+    <option name="totallyTimeSpent" value="33715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -258,6 +259,13 @@
             <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
